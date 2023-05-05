@@ -1,2 +1,2 @@
 # parallax-website
-An adventure website with parallax effect
+An adventure website with parallax effect..
